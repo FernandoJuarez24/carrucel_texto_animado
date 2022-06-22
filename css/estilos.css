@@ -70,8 +70,7 @@ body{
   left:-5% !important;
   width: 100%;
   animation-delay: 5s;
-  animation-name: letrasDerecha;
-  animation-duration: 2s;
+  animation: letrasDerecha 2s;
 }
 @keyframes letrasDerecha{
   from{
